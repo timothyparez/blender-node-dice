@@ -1,5 +1,5 @@
 # Node Dice
-A sample showing you how to generate a dice with geometry nodes
+A sample showing you how to generate a dice with geometry nodes   
 and how to generate the materials with shader nodes.
 
 ![node dice](readme.md_files/nodedice.png)
